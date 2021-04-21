@@ -75,5 +75,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 - Website [@your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://github.com/Desarrollo-NCA)
+- GitHub [@Desarrollo-NCA](https://github.com/Desarrollo-NCA)
 - Twitter [@your-twitter](https://{twitter.com/your-username})
